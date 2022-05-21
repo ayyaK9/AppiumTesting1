@@ -47,6 +47,9 @@ public class MobileGesturesDemo extends BaseDriver {
 
 		System.out
 				.println(adriver.findElement(By.xpath("//android.widget.TextView[@text='Sample menu']")).isDisplayed());
+		
+		
+		
 	}
 
 }
